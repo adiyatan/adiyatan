@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Adiya Tanaya Permana</h1>
 <h3 align="center">A student who has passionate In the field of programming and artificial intelligence</h3>
 
 - 🌱 I’m currently learning **React,Javascript and NodeJs**
