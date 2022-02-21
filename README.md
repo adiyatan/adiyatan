@@ -1,9 +1,5 @@
 <h3 align="center">A student who has passionate In the field of programming and artificial intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keirattlexnake&label=Profile%20views&color=0e75b6&style=flat" alt="keirattlexnake" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keirattlexnake" alt="keirattlexnake" /></a> </p>
-
 - 🌱 I’m currently learning **React,Javascript and NodeJs**
 
 - 👯 I’m looking to collaborate on [Instagram](http://www.instagram.com/Adiyatann)
