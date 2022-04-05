@@ -1,5 +1,5 @@
 [![MasterHead](https://magenticians.com/wp-content/uploads/2016/11/How-you-can-hire-a-magento-developer-Banner.jpg)](https://github.com/keirattlexnake/keirattlexnake)
-<h1 align="center">Hi 👋, I'm Adiya Tanaya Permana</h1>
+<h1 align="center">Hi 👋, I'm Adiya Tanaya Permana(Kei)</h1>
 <h3 align="center">A student who has passionate In the field of programming and artificial intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://the-pineapple-co.com/wp-content/uploads/2020/12/Programmer.gif">
 
